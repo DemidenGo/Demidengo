@@ -22,5 +22,5 @@
 #### [FakeVK.com](https://github.com/DemidenGo/netology-ios-homeworks)
 
 Учебное приложение, которое имитирует мобильное приложение VK.com.
-Технологии: MVC, UIKit, Autolayout, UITabBarController, UITableView, UICollectionView.
+Технологии: MVC, UIKit, Autolayout, UITabBarController, UITableView, UICollectionView, UIView.animate, NotificationCenter.
 Ссылка на проект: [https://github.com/DemidenGo/netology-ios-homeworks]()
