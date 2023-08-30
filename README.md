@@ -1,16 +1,25 @@
-### Hi there 👋
+### Приветствую! 👋 Здесь можно посмотреть мои проекты
 
-<!--
-**DemidenGo/Demidengo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### TrackerApp
 
-Here are some ideas to get you started:
+Приложение помогает пользователям формировать полезные привычки и контролировать их выполнение. Позволяет вести контроль привычек по дням недели. Приложение состоит из карточек-трекеров, которые создает пользователь. Карточки отсортированы по категориям. Выводится статистика прогресса по привычкам. В приложении выполнена локализация и реализована тёмная тема.
+Технологии: MVC, MVVM, UIKit, Autolayout, CoreData, NSFetchedResultsController, NSPredicate, NSSortDescriptor, ObservableWrapper, BatchUpdates, YandexMobileMetrica, Swift Package Manager (SPM), CocoaPods, SnapshotTesting, Color Marshalling.
+Ссылка на проект: [https://github.com/demidengo/trackerapp]()
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### ImageFeed
+
+Многостраничное приложение для просмотра изображений через [API Unsplash](https://unsplash.com/documentation). Позволяет просматривать бесконечную ленту картинок из Unsplash Editorial. Пользователи могут просматривать каждое изображение отдельно, добавлять изображения в избранное и удалять оттуда. Также имеется возможность просмотра краткой информации из профиля пользователя на сайте [unsplash.com](https://unsplash.com). В приложении реализована авторизация через [OAuth Unsplash](https://unsplash.com/documentation/user-authentication-workflow).
+Технологии: MVP, UIKit, Autolayout, OAuth 2.0, URLSession, URLComponents, WebView, NotificationCenter, KVO, Kingfisher, SwiftKeychainWrapper, Decodable, DispatchQueue, Swift Package Manager (SPM), Core Animation, SplashViewController, Unit Tests, XCTest.
+Ссылка на проект: [https://github.com/demidengo/imagefeed]()
+
+#### MovieQuiz
+
+Одностраничное приложение с квизами о фильмах из топ-250 рейтинга IMDb. Информация о фильмах запрашивается через [API IMDb](https://imdb-api.com/api). Пользователь приложения последовательно отвечает на вопросы о рейтинге фильма. По итогам каждого раунда игры показывается статистика о количестве правильных ответов и лучших результатах пользователя. Цель игры - правильно ответить на все 10 вопросов раунда.
+Технологии: MVP, UIKit, Storyboard, DispatchQueue, UserDefaults, URLSession, JSONDecoder, Decodable, API IMDb, XCTest, unit tests, UI tests.
+Ссылка на проект: [https://github.com/demidengo/moviequiz-ios]()
+
+#### FakeVK.com
+
+Учебное приложение, которое имитирует мобильное приложение VK.com.
+Технологии: MVC, UIKit, Autolayout, UITabBarController, UITableView, UICollectionView.
+Ссылка на проект: [https://github.com/DemidenGo/netology-ios-homeworks]()
