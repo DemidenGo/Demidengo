@@ -26,4 +26,4 @@
 Ссылка на проект: [https://github.com/DemidenGo/netology-ios-homeworks]()
 
 ### Спасибо за внимание!
-![command-line](image.jpg)
+![command-line](image.png)
