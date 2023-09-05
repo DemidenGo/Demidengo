@@ -3,7 +3,7 @@
 
 #### [FakeNFT](https://github.com/demidengo/fakenft)
 
-Приложение помогает пользователям просматривать и покупать NFT (Non-Fungible Token). По сути имитация маркетплейса, специализирующегося на NFT. Функционал покупки иммитируется с помощью мокового сервера mockapi.io. При разработке приложения отрабатывались навыки работы в команде. Моя зона ответственности - экран профиля. В приложении выполнена локализация и реализована тёмная тема.
+Приложение помогает пользователям просматривать и покупать NFT (Non-Fungible Token). По сути имитация маркетплейса, специализирующегося на NFT. Функционал покупки иммитируется с помощью мокового сервера [mockapi.io](https://mockapi.io). При разработке приложения отрабатывались навыки работы в команде. Моя зона ответственности - экран профиля. В приложении выполнена локализация и реализована тёмная тема.
 Технологии: MVVM (без combine и React-фреймворков), UIKit, propertyWrapper, Key-value observing (KVO), NotificationCenter, UserDefaults, вёрстка кодом с AutoLayout, UIView.animate, URLSession, URLRequest, JSONDecoder, Codable, DispatchGroup, WKWebView, URL validation, DispatchQueue, блокировка UI, UI-тесты и Unit-тесты (XCTest), Swift Package Manager (SPM), Kingfisher, ProgressHUD
 Ссылка на проект: [https://github.com/demidengo/fakenft]()
 
