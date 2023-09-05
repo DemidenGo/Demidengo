@@ -15,7 +15,7 @@
 
 #### [ImageFeed](https://github.com/demidengo/imagefeed)
 
-**Описание:** многостраничное приложение для просмотра изображений через [API Unsplash](https://unsplash.com/documentation). Позволяет просматривать бесконечную ленту картинок из Unsplash Editorial. Пользователи могут просматривать каждое изображение отдельно, добавлять изображения в избранное и удалять оттуда. Также имеется возможность просмотра краткой информации из профиля пользователя на сайте [unsplash.com](https://unsplash.com). В приложении реализована авторизация через [OAuth Unsplash](https://unsplash.com/documentation/user-authentication-workflow).  
+**Описание:** многостраничное приложение для просмотра изображений через [API Unsplash](https://unsplash.com/documentation). Позволяет просматривать бесконечную ленту картинок из Unsplash Editorial. Пользователи могут просматривать каждое изображение отдельно, добавлять изображения в избранное и удалять оттуда. Также имеется возможность просмотра краткой информации из профиля пользователя на сайте [unsplash.com](https://unsplash.com). В приложении реализована авторизация через [OAuth2 Unsplash](https://unsplash.com/documentation/user-authentication-workflow).  
 **Технологии:** MVP, UIKit, Autolayout, OAuth 2.0, URLSession, URLComponents, WebView, NotificationCenter, KVO, Kingfisher, SwiftKeychainWrapper, Decodable, DispatchQueue, Swift Package Manager (SPM), Core Animation, SplashViewController, Unit Tests, XCTest.  
 **Ссылка на проект:** [https://github.com/demidengo/imagefeed](https://github.com/demidengo/imagefeed)
 
