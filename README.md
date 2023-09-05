@@ -1,4 +1,5 @@
-### ![](image.jpg) Приветствую!👋 Здесь можно посмотреть мои проекты
+### Приветствую! 👋 
+### Здесь можно посмотреть мои проекты
 
 #### [TrackerApp](https://github.com/demidengo/trackerapp)
 
@@ -23,3 +24,6 @@
 Учебное приложение, которое имитирует мобильное приложение VK.com.
 Технологии: MVC, UIKit, Autolayout, UITabBarController, UITableView, UICollectionView, UIView.animate, NotificationCenter.
 Ссылка на проект: [https://github.com/DemidenGo/netology-ios-homeworks]()
+
+### Спасибо за внимание!
+![command-line](image.jpg)
