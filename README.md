@@ -1,4 +1,7 @@
-### Приветствую! 👋 
+### Приветствую! 👋
+
+**Мой стек:** Swift, Xcode, UIKit, вёрстка кодом с AutoLayout, MVC, MVP, MVVM, URLSession, JSON, Codable, REST API, OAuth 2.0, DispatchQueue, CoreData, UserDefaults, CoreAnimation, WebView, UI-тесты и Unit-тесты (XCTest), Swift Package Manager (SPM), CocoaPods
+
 ### Здесь можно посмотреть мои проекты
 
 #### [FakeNFT](https://github.com/demidengo/fakenft)
