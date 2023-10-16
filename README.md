@@ -28,6 +28,12 @@
 **Технологии:** Swift, MVP, UIKit, Autolayout, OAuth 2.0, URLSession, URLComponents, WebView, NotificationCenter, KVO, Kingfisher, SwiftKeychainWrapper, Decodable, DispatchQueue, Swift Package Manager (SPM), Core Animation, SplashViewController, Unit Tests, XCTest.  
 **Ссылка на проект:** [https://github.com/demidengo/imagefeed](https://github.com/demidengo/imagefeed)
 
+#### [Todolist](https://github.com/demidengo/todolist)
+
+**Описание:** простое и лёгкое приложение для составления списка задач. Позволяет добавить новую задачу, отметить её выполненной и удалить. Изначально это было тестовое задание, теперь приложением пользуюсь сам.
+**Технологии:** Swift, UIKit, Autolayout, MVVM, UserDefaults, NotificationCenter.
+**Ссылка на проект:** [https://github.com/DemidenGo/Todolist](https://github.com/DemidenGo/Todolist)
+
 #### [MovieQuiz](https://github.com/demidengo/moviequiz-ios)
 
 **Описание:** одностраничное приложение с квизами о фильмах из топ-250 рейтинга IMDb. Информация о фильмах запрашивается через [API IMDb](https://imdb-api.com/api#Top250Movies-header). Пользователь приложения последовательно отвечает на вопросы о рейтинге фильма. По итогам каждого раунда игры показывается статистика о количестве правильных ответов и лучших результатах пользователя. Цель игры - правильно ответить на все 10 вопросов раунда. ‼️ К сожалению, сервис imdb.com с июля 2023 года убрал возможность бесплатного тестового доступа к своему API. Теперь доступ к API IMDb только по платной подписке. По этой причине функциональность приложения ограничена. Для восстановления функциональности необходимо использовать актуальный API Key. Ключ задаётся по адресу /MovieQuiz/Resources/Constants.swift (константа apiKey).  
