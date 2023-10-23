@@ -31,7 +31,7 @@
 #### [TradingView](https://github.com/DemidenGo/TradingView)
 
 **Описание:** Тестовое приложение на основе платформы tradingview.com.
-**Технологии:** Swift, UIKit, Autolayout, MVVM
+**Технологии:** Swift, UIKit, Autolayout, MVVM  
 **Ссылка на проект:** [https://github.com/DemidenGo/TradingView](https://github.com/DemidenGo/TradingView)
 
 #### [Todolist](https://github.com/demidengo/todolist)
