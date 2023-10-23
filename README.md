@@ -28,6 +28,12 @@
 **Технологии:** Swift, MVP, UIKit, Autolayout, OAuth 2.0, URLSession, URLComponents, WebView, NotificationCenter, KVO, Kingfisher, SwiftKeychainWrapper, Decodable, DispatchQueue, Swift Package Manager (SPM), Core Animation, SplashViewController, Unit Tests, XCTest.  
 **Ссылка на проект:** [https://github.com/demidengo/imagefeed](https://github.com/demidengo/imagefeed)
 
+#### [TradingView](https://github.com/DemidenGo/TradingView)
+
+**Описание:** Тестовое приложение на основе платформы tradingview.com.
+**Технологии:** Swift, UIKit, Autolayout, MVVM
+**Ссылка на проект:** [https://github.com/DemidenGo/TradingView](https://github.com/DemidenGo/TradingView)
+
 #### [Todolist](https://github.com/demidengo/todolist)
 
 **Описание:** простое и лёгкое приложение для составления списка задач. Позволяет добавить новую задачу, отметить её выполненной и удалить. Изначально это было тестовое задание, теперь приложением пользуюсь сам.
