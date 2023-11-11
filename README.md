@@ -4,29 +4,13 @@
 
 ### Здесь можно посмотреть мои проекты
 
-#### [SWTracker](https://github.com/DemidenGo/SWTracker) - поиск ресурсов из фильмов серии Star Wars
+#### [TrackerApp](https://github.com/demidengo/trackerapp) - трекер полезных привычек
 
-**Описание:** приложение позволяет искать ресурсы из фильмов серии Star Wars (Звездные войны) и сохранять их в Избранном. Также есть возможность просмотра детальной информации по выбранному ресурсу. Для получения данных используется открытый API SWAPI https://swapi.dev/api/  
-**Технологии:** Swift, MVVM (с использованием propertyWrapper), UIKit, вёрстка кодом с AutoLayout, URLSession, URLRequest, JSONDecoder, Codable, DispatchQueue, Swift Package Manager (SPM), ProgressHUD.  
-**Ссылка на проект:** [https://github.com/DemidenGo/SWTracker](https://github.com/DemidenGo/SWTracker)
+#### [ImageFeed](https://github.com/demidengo/imagefeed) - приложение для просмотра изображений через API Unsplash
 
-#### [FakeNFT](https://github.com/demidengo/fakenft)
+#### [SWTracker](https://github.com/DemidenGo/SWTracker) - приложение для поиска ресурсов из фильмов серии Star Wars
 
-**Описание:** приложение помогает пользователям просматривать и покупать NFT (Non-Fungible Token). По сути имитация маркетплейса, специализирующегося на NFT. Функционал покупки иммитируется с помощью мокового сервера [mockapi.io](https://mockapi.io). При разработке приложения отрабатывались навыки работы в команде. Моя зона ответственности - экран профиля.  
-**Технологии:** Swift, MVVM (без combine и React-фреймворков), propertyWrapper, Key-value observing (KVO), NotificationCenter, UserDefaults, UIKit, вёрстка кодом с AutoLayout, UIView.animate, URLSession, URLRequest, JSONDecoder, Codable, DispatchGroup, WKWebView, URL validation, DispatchQueue, блокировка UI, UI-тесты и Unit-тесты (XCTest), Swift Package Manager (SPM), Kingfisher, ProgressHUD.  
-**Ссылка на проект:** [https://github.com/demidengo/fakenft](https://github.com/demidengo/fakenft)
-
-#### [TrackerApp](https://github.com/demidengo/trackerapp)
-
-**Описание:** приложение помогает пользователям формировать полезные привычки и контролировать их выполнение. Позволяет вести контроль привычек по дням недели. Приложение состоит из карточек-трекеров, которые создает пользователь. Карточки отсортированы по категориям. Выводится статистика прогресса по привычкам. В приложении выполнена локализация и реализована тёмная тема.  
-**Технологии:** Swift, MVC, MVVM, UIKit, Autolayout, CoreData, NSFetchedResultsController, NSPredicate, NSSortDescriptor, ObservableWrapper, BatchUpdates, YandexMobileMetrica, Swift Package Manager (SPM), CocoaPods, SnapshotTesting, Color Marshalling.  
-**Ссылка на проект:** [https://github.com/demidengo/trackerapp](https://github.com/demidengo/trackerapp)
-
-#### [ImageFeed](https://github.com/demidengo/imagefeed)
-
-**Описание:** многостраничное приложение для просмотра изображений через [API Unsplash](https://unsplash.com/documentation). Позволяет просматривать бесконечную ленту картинок из Unsplash Editorial. Пользователи могут просматривать каждое изображение отдельно, добавлять изображения в избранное и удалять оттуда. Также имеется возможность просмотра краткой информации из профиля пользователя на сайте [unsplash.com](https://unsplash.com). В приложении реализована авторизация через [OAuth2 Unsplash](https://unsplash.com/documentation/user-authentication-workflow).  
-**Технологии:** Swift, MVP, UIKit, Autolayout, OAuth 2.0, URLSession, URLComponents, WebView, NotificationCenter, KVO, Kingfisher, SwiftKeychainWrapper, Decodable, DispatchQueue, Swift Package Manager (SPM), Core Animation, SplashViewController, Unit Tests, XCTest.  
-**Ссылка на проект:** [https://github.com/demidengo/imagefeed](https://github.com/demidengo/imagefeed)
+#### [FakeNFT](https://github.com/demidengo/fakenft) - имитация маркетплейса NFT (Non-Fungible Token)
 
 #### [TradingView](https://github.com/DemidenGo/TradingView)
 
