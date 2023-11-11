@@ -4,7 +4,7 @@
 
 ### Здесь можно посмотреть мои проекты
 
-#### [SWTracker](https://github.com/DemidenGo/SWTracker)
+#### [SWTracker](https://github.com/DemidenGo/SWTracker) - поиск ресурсов из фильмов серии Star Wars
 
 **Описание:** приложение позволяет искать ресурсы из фильмов серии Star Wars (Звездные войны) и сохранять их в Избранном. Также есть возможность просмотра детальной информации по выбранному ресурсу. Для получения данных используется открытый API SWAPI https://swapi.dev/api/  
 **Технологии:** Swift, MVVM (с использованием propertyWrapper), UIKit, вёрстка кодом с AutoLayout, URLSession, URLRequest, JSONDecoder, Codable, DispatchQueue, Swift Package Manager (SPM), ProgressHUD.  
