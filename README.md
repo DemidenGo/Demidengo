@@ -18,6 +18,8 @@
 
 #### [Todolist](https://github.com/demidengo/todolist) - приложение для составления списка задач
 
+#### [WeightMonitor](https://github.com/DemidenGo/WeightMonitor) - мониторинг и контроль веса
+
 #### [MovieQuiz](https://github.com/demidengo/moviequiz-ios) - приложение с квизами о фильмах из топ-250 рейтинга IMDb
 
 #### [FakeVK](https://github.com/DemidenGo/netology-ios-homeworks) - тестовое приложение, имитирует мобильное приложение VK.com
