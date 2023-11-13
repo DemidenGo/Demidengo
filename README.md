@@ -25,3 +25,7 @@
 #### [FakeVK](https://github.com/DemidenGo/netology-ios-homeworks) - тестовое приложение, имитирует мобильное приложение VK.com
 
 ### Спасибо за внимание!
+
+Мои контакты: 
+email: dimidengo@yandex.ru 
+tg: @demidengo
