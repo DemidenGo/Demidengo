@@ -18,7 +18,7 @@
 
 #### [Todolist](https://github.com/demidengo/todolist) - приложение для составления списка задач
 
-#### [WeightMonitor](https://github.com/DemidenGo/WeightMonitor) - мониторинг и контроль веса
+#### [WeightMonitor](https://github.com/DemidenGo/WeightMonitor) - приложение для мониторинга и контроля веса
 
 #### [MovieQuiz](https://github.com/demidengo/moviequiz-ios) - приложение с квизами о фильмах из топ-250 рейтинга IMDb
 
