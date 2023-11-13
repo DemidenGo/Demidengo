@@ -26,6 +26,6 @@
 
 ### Спасибо за внимание!
 
-Мои контакты: 
-email: dimidengo@yandex.ru 
+Мои контакты:  
+email: dimidengo@yandex.ru  
 tg: @demidengo
