@@ -18,6 +18,6 @@
 
 #### [MovieQuiz](https://github.com/demidengo/moviequiz-ios) - приложение с квизами о фильмах из топ-250 рейтинга IMDb
 
-#### [FakeVK.com](https://github.com/DemidenGo/netology-ios-homeworks) - тестовое приложение, имитирует мобильное приложение VK.com
+#### [FakeVK](https://github.com/DemidenGo/netology-ios-homeworks) - тестовое приложение, имитирует мобильное приложение VK.com
 
 ### Спасибо за внимание!
